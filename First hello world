@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro programa</title>
+    <style>
+        body {
+            background-color: rgb(114, 114, 243);
+            color: white;
+            font: normal 20pt Arial;
+        }
+        h1 {
+            color:rgb(245, 193, 98)
+        }       
+    </style>
+</head>
+<body>
+   <h1>Olá, mundo!</h1>
+   <p>Agora já estou salva da maldição do primeiro código criado!!
+   <br>Esse é o meu primeiro código criado</p>
+   <script>
+        alert('Minha primeira mensagem')
+        confirm('Está gostando de JS?')
+        prompt('Qual é o seu nome?')
+   </script>
+</body>
+</html>
